@@ -1,0 +1,10 @@
+Estilos da border CSS
+
+
+border: 1px solid blue;
+                border: 5px groove green;
+                border: 10px hidden grey;
+
+
+
+                text-align: justify;
